@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&colo=auto&height=200&section=header&text=Welcome%20to%20Minsik's%20Github&fontSize=50)
 
 ### Hi there 👋
+---------------------------------------
 - Name: Minsik Kim
 - 
 
