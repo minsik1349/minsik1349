@@ -8,12 +8,23 @@
 ### Technical Skill
 
 ### Github'status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsik1349&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mindik1349)](https://github.com/minsik1349/github-readme-stats)
+
 
 ### Education
+|제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+
 
 ### Project(Competition)
-
+|제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
 
 
 <!--
