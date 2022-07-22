@@ -1,6 +1,18 @@
+![header](https://capsule-render.vercel.app/api?type=waving&colo=auto&height=200&section=header&text=Welcome%20to%20Minsik's%20Github&fontSize=50)
+
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&colo=auto&height=200&section=header&text=Welcome%20to%20Minsik's%20Github&fontSize=50)
+
+### Contact
+
+### Technical Skill
+
+### Github'status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsik1349&show_icons=true&theme=radical)
+
+### Education
+
+### Project(Competition)
 
 
 
