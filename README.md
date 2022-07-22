@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&colo=auto&height=200&section=header&text=Welcome% to% Minsik's% Github%20&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&colo=auto&height=200&section=header&text=Welcome%20to%20Minsik's%20Github&fontSize=50)
 
 
 
