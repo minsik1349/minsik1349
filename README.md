@@ -17,6 +17,8 @@
 
 
 ## Github'status
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsik1349)](https://github.com/minsik1349/github-readme-stats)
+
 
 ## Education
 |기간|소속|전공&교육|비고|
@@ -25,6 +27,7 @@
 |2022.01 ~ 06|국민대학교|MIL실(학부연구생)|마무리|
 
 ## Project(Competition)
+
 ##### 교내(전공)
 |주관|대회(프로젝트)명|학점(순위)|링크|
 |------|---|---|---|
