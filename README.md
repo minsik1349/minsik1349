@@ -8,10 +8,10 @@
 ## Contact
 
 ## Technical Skill
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 
 ## Github'status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mindik1349)](https://github.com/minsik1349/github-readme-stats)
-
 
 ## Education
 |기간|소속|전공&교육|비고|
@@ -24,8 +24,8 @@
 |주관|대회(프로젝트)명|학점(순위)|링크|
 |------|---|---|---|
 |[전공] 분석프로그래밍|백화점 매출 데이터를 통한 분석 및 프로모션 제안|A+|[링크](https://github.com/minsik1349/Major_Project/tree/main/%EB%B6%84%EC%84%9D%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)|
-|[전공] 머신러닝|Kaggle Competition(백화점 데이터를 통한 성별 예측)|1차: 3등 / 2차: 9등|[링크](https://github.com/minsik1349/Major_Project/tree/main/Machine%20learning(Competition))|
-|[전공] 머신러닝|Kaggle Comepetition(도서 판매 예측)|최종: 1등|[링크](https://github.com/minsik1349/Major_Project/tree/main/Machine%20learning(Competition))|
+|[전공] 머신러닝|Kaggle Competition(백화점 데이터를 통한 성별 예측)|1차: 3등/2차: 9등|[링크](https://github.com/minsik1349/Major_Project/tree/main/Machine%20learning(Competition))|
+|[전공] 머신러닝|Kaggle Comepetition(도서 판매 예측)|최종: 1등(A+)|[링크](https://github.com/minsik1349/Major_Project/tree/main/Machine%20learning(Competition))|
 |[전공] 텍스트데이터분석|제주도 렌터카 리뷰 분석을 통한 주요 키워드 추출|A+|[링크](https://github.com/minsik1349/Major_Project/tree/main/%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)|
 |[전공] 공간데이터분석|홍대&상수 상권 분석을 통한 생존 전략|A+|[링크](https://github.com/minsik1349/Major_Project/tree/main/%EA%B3%B5%EA%B0%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)|
 |[전공] 인공지능과 기술응용Ⅱ||A+|[링크](https://github.com/minsik1349/Major_Project/tree/main/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B8%B0%EC%88%A0%EA%B3%BC%EC%9D%91%EC%9A%A9%E2%85%A1)|
