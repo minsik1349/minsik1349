@@ -2,8 +2,8 @@
 
 ## Hi there 👋
 - Name: Minsik Kim
-- 
-- 
+- Major: AI Big Data & Management(Kookmin university)
+- Study: Recommend System, Time-Series Anomaly Detection
 
 ## Contact
 
@@ -28,7 +28,7 @@
 |[전공] 머신러닝|ㅇㅇㅇ|1등||
 |[전공] 텍스트데이터분석|제주도 렌터카 리뷰 분석을 통한 주요 키워드 추출|A+||
 |[전공] 공간데이터분석|ㅇㅇㅇ|A+||
-|[전공] AI빅데이터프로젝트:캡스톤디자인Ⅰ|ㅇㅇㅇ|A+||
+|[전공] AI빅데이터프로젝트:<br/> 캡스톤디자인Ⅰ|ㅇㅇㅇ|A+||
 |[전공] AI빅데이터프로젝트:캡스톤디자인Ⅱ|ㅇㅇㅇ|A+||
 
 ##### 교내(기타)
