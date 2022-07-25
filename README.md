@@ -23,14 +23,15 @@
 ##### 교내(전공)
 |주관|대회(프로젝트)명|학점(순위)|링크|
 |------|---|---|---|
-|[전공] 분석프로그래밍|백화점 매출 데이터를 통한 분석 및 프로모션 제안|A+|대기|
-|[전공] 머신러닝|Kaggle Competition(백화점 데이터를 통한 성별 예측)|1차: 3등 / 2차: 9등|대기|
-|[전공] 머신러닝|Kaggle Comepetition(도서 판매 예측)|최종: 1등|대기|
+|[전공] 분석프로그래밍|백화점 매출 데이터를 통한 분석 및 프로모션 제안|A+|[링크](https://github.com/minsik1349/Major_Project/tree/main/%EB%B6%84%EC%84%9D%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)|
+|[전공] 머신러닝|Kaggle Competition(백화점 데이터를 통한 성별 예측)|1차: 3등 / 2차: 9등|[링크](https://github.com/minsik1349/Major_Project/tree/main/Machine%20learning(Competition))|
+|[전공] 머신러닝|Kaggle Comepetition(도서 판매 예측)|최종: 1등|[링크]
+(https://github.com/minsik1349/Major_Project/tree/main/Machine%20learning(Competition))|
 |[전공] 텍스트데이터분석|제주도 렌터카 리뷰 분석을 통한 주요 키워드 추출|A+|[링크](https://github.com/minsik1349/Major_Project/tree/main/%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)|
-|[전공] 공간데이터분석|홍대&상수 상권 분석을 통한 생존 전략|A+|대기|
-|[전공] 인공지능과 기술응용Ⅱ||A+||
-|[전공] AI빅데이터프로젝트:<br/> 캡스톤디자인Ⅰ|Multilateral Embedding을 통한 추천시스템 연구|A+ (진행중)|대기|
-|[전공] AI빅데이터프로젝트:<br/>캡스톤디자인Ⅱ|코로나19 시대의 소상공인의 현황|A+|대기|
+|[전공] 공간데이터분석|홍대&상수 상권 분석을 통한 생존 전략|A+|[링크](https://github.com/minsik1349/Major_Project/tree/main/%EA%B3%B5%EA%B0%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)|
+|[전공] 인공지능과 기술응용Ⅱ||A+|[링크](https://github.com/minsik1349/Major_Project/tree/main/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B8%B0%EC%88%A0%EA%B3%BC%EC%9D%91%EC%9A%A9%E2%85%A1)|
+|[전공] AI빅데이터프로젝트:<br/> 캡스톤디자인Ⅰ|Multilateral Embedding을 통한 추천시스템 연구|A+ (진행중)|[링크](https://github.com/minsik1349/Major_Project/tree/main/AI%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8:%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8%E2%85%A0)|
+|[전공] AI빅데이터프로젝트:<br/>캡스톤디자인Ⅱ|코로나19 시대의 소상공인의 현황|A+|[링크](https://github.com/minsik1349/Major_Project/tree/main/AI%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8:%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8%E2%85%A1)|
 
 ##### 교내(기타)
 |주관|프로젝트명|기타|링크|
