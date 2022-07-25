@@ -6,7 +6,7 @@
 - Study: Recommend System, Time-Series Anomaly Detection
 
 ## Contact
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=animo1349@gmail.com&logoColor=white"> 
+<img src="https://img.shields.io/badge/animo1349@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
 
 ## Technical Skill
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
