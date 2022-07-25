@@ -26,7 +26,7 @@
 |[전공] 분석프로그래밍|백화점 매출 데이터를 통한 분석 및 프로모션 제안|A+|대기|
 |[전공] 머신러닝|Kaggle Competition(백화점 데이터를 통한 성별 예측)|1차: 3등 / 2차: 9등|대기|
 |[전공] 머신러닝|Kaggle Comepetition(도서 판매 예측)|최종: 1등|대기|
-|[전공] 텍스트데이터분석|제주도 렌터카 리뷰 분석을 통한 주요 키워드 추출|A+|(링크)[https://github.com/minsik1349/Major_Project/tree/main/%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D]|
+|[전공] 텍스트데이터분석|제주도 렌터카 리뷰 분석을 통한 주요 키워드 추출|A+|[링크](https://github.com/minsik1349/Major_Project/tree/main/%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)|
 |[전공] 공간데이터분석|홍대&상수 상권 분석을 통한 생존 전략|A+|대기|
 |[전공] 인공지능과 기술응용Ⅱ||A+||
 |[전공] AI빅데이터프로젝트:<br/> 캡스톤디자인Ⅰ|Multilateral Embedding을 통한 추천시스템 연구|A+ (진행중)|대기|
