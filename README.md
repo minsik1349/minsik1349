@@ -30,8 +30,8 @@
 |주관|대회(프로젝트)명|분야|학점(순위)|링크|
 |------|---|---|---|---|
 |[전공] 분석프로그래밍|백화점 매출 데이터를 통한 분석 및 프로모션 제안|데이터 분석 <br/> (마케팅)|A+|[링크](https://github.com/minsik1349/Major_Project/tree/main/%EB%B6%84%EC%84%9D%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)|
-|[전공] 머신러닝|Kaggle Competition <br/> (백화점 데이터를 통한 성별 예측)|ML <br/> (classification)|1차: 3등/2차: 9등|[링크](https://github.com/minsik1349/Major_Project/tree/main/Machine%20learning(Competition))|
-|[전공] 머신러닝|Kaggle Comepetition <br/> (도서 판매 예측)|ML <br/> (regression)|최종: 1등(A+)|[링크](https://github.com/minsik1349/Major_Project/tree/main/Machine%20learning(Competition))|
+|[전공] 머신러닝|Kaggle Competition(백화점 데이터를 통한 성별 예측)|ML|1차: 3등/2차: 9등|[링크](https://github.com/minsik1349/Major_Project/tree/main/Machine%20learning(Competition))|
+|[전공] 머신러닝|Kaggle Comepetition(도서 판매 예측)|ML|최종: 1등(A+)|[링크](https://github.com/minsik1349/Major_Project/tree/main/Machine%20learning(Competition))|
 |[전공] 텍스트데이터분석|제주도 렌터카 리뷰 분석을 통한 주요 키워드 추출|NLP|A+|[링크](https://github.com/minsik1349/Major_Project/tree/main/%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)|
 |[전공] 공간데이터분석|홍대&상수 상권 분석을 통한 생존 전략|QGIS|A+|[링크](https://github.com/minsik1349/Major_Project/tree/main/%EA%B3%B5%EA%B0%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)|
 |[전공] 인공지능과 기술응용Ⅱ||CV|A+|[링크](https://github.com/minsik1349/Major_Project/tree/main/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B8%B0%EC%88%A0%EA%B3%BC%EC%9D%91%EC%9A%A9%E2%85%A1)|
@@ -49,7 +49,7 @@
 |주관|대회(프로젝트)명|분야|순위(기타)|링크|
 |------|---|---|---|---|
 |[기상청] 엠퍼코레이션|2021년 날씨 빅데이터 콘테스트(민간협력형) <br/> (신 사계절 정의 및 최적 날씨 변수 선택을 통한 수요예측)|ML <br/> (마케팅)|우수상|대기|
-|[DACON] NH 투자증권|2021년 NH투자증권 빅데이터 경진대회 <br/> (주식 종목 별 보유기간 예측/서비스 아이디어 제안)|ML <br/> (regression)|44위(17%)/입선|대기|
+|[DACON] NH 투자증권|2021년 NH투자증권 빅데이터 경진대회 <br/> (주식 종목 별 보유기간 예측/서비스 아이디어 제안)|ML <br/> (마케팅)|44위(17%)/입선|대기|
 |[한국정보산업연합회] 한이음|2021 한이음 공모전 <br/> (얼굴표정 인식 기술을 활용한 옥외 광고 서비스)|CV/DB|입선|대기|
 |[한국정보처리학회] 한이음|ACK 2021 추계학술대회 공모전 <br> (얼굴표정 인식 기술을 활용한 옥외 광고 서비스)|CV/DB|최우수상(한이음)|대기|
 
